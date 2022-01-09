@@ -17,3 +17,11 @@ then follow the instruction below:
 - Then run `bundle exec jekyll serve`
 - Open it in your browser: `http://localhost:4000`
 
+# Building
+
+`npx tailwindcss -i ./assets/css/main.css -o ./assets/css/tailwind.css`
+
+
+# Github Pages
+
+you have to change `baseurl` and `url` in `_config.yml` to make the site work for Github Pages

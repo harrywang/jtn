@@ -28,3 +28,7 @@ Start developing your Jekyll website.
  end
  ```
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem dolorum, enim et ex hic incidunt ipsam molestias nihil obcaecati omnis quasi quis sequi sunt veritatis vero vitae! Distinctio, voluptatem!
+
+```python
+pip install -r requirements.txt
+```
